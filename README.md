@@ -1,4 +1,4 @@
-# Sarah Beya Tshibangu — Engineering Portfolio
+# Sarah Beya  — Engineering Portfolio
 
 Welcome to my personal engineering portfolio.
 
