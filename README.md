@@ -78,7 +78,7 @@ The current version includes:
 
 ---
 
-## 🛠 Technical Skills
+##  Technical Skills
 
 **Networking:**  
 TCP/IP, IP addressing, DNS, DHCP, NAT, ARP, subnetting, HTTP/HTTPS, connectivity troubleshooting
@@ -100,7 +100,7 @@ Troubleshooting, root-cause analysis, case management, technical documentation, 
 
 ---
 
-## Education
+##  Education
 
 **BSc (Hons) Computer Science — Software Engineering**  
 University of Hull  
@@ -111,7 +111,7 @@ Final International University
 
 ---
 
-## Languages
+##  Languages
 
 - English — Fluent
 - French — Fluent
@@ -119,7 +119,7 @@ Final International University
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
 - **Portfolio:** https://missbeya.github.io
 - **GitHub:** https://github.com/missBeya
