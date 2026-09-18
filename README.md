@@ -1,4 +1,4 @@
-# Sarah Beya Tshibangu — Portfolio Website
+# My Portfolio Website
 
 A responsive static engineering portfolio designed for GitHub Pages.
 
